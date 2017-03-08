@@ -1,0 +1,4 @@
+export GIT_AUTHOR_NAME="Chris Hoffman"
+export GIT_AUTHOR_EMAIL=christopher.hoffman@gmail.com
+export GIT_COMMITTER_NAME="Chris Hoffman"
+export GIT_COMMITTER_EMAIL=christopher.hoffman@gmail.com
